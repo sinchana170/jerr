@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 add bn
+=======
+add bj
+>>>>>>> Stashed changes
